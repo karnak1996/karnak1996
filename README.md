@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @karnak1996
+- 👀 I’am a VLSI Engineer
+- 🌱 I’m currently learning Devops
